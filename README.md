@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Yikai Tang, an undergraduate student of SJTU
 - 👀 I’m majoring in Computer Science and Technology(IEEE Honor Class)
 - 🌱 I’m currently doing research on Computer Vision advised by Prof. Yunbo Wang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ Please refer to my [CV](https://github.com/WinterMelooooo/CV/blob/master/Resume_YikaiTang.pdf)
+- 📫 How to reach me: 2538358797@qq.com
+
 
 <!---
 WinterMelooooo/WinterMelooooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
